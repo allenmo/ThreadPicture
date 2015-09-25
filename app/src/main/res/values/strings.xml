@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreadPicture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Beautiful</string>
+    <string name="button2">HappyCat</string>
+    <string name="imageView">imageView</string>
+    <string name="button3">Logo</string>
+</resources>
